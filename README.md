@@ -1,4 +1,4 @@
-# Introduction to Machine Learning
+# Introduction-Machine-Learning
 
 This repository contains activities proposed in the Introduction to Machine Learning course during the 2024-1 quarter of the Graduate Program in Electronic Systems Engineering (PPGESE) at UFSC.
 
@@ -13,6 +13,11 @@ This repository contains activities proposed in the Introduction to Machine Lear
   - `knn_application.py`: Python script for applying KNN algorithms.
   - `verification_dataset.csv`: Dataset used for verification purposes.
   - `weather_dataset.csv`: Dataset containing weather data.
+
+- `mlp`: This folder contains files related to multilayer perceptron (MLP) algorithms.
+  - `dataset.csv`: Wine dataset used for MLP applications.
+  - `mlp_application.py`: Python script for applying MLP algorithms.
+  - `wine_dataset.py`: Python script for managing wine dataset.
 
 ## License
 
